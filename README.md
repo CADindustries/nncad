@@ -32,7 +32,7 @@ Fitting:
 model.fit(ds_train, epochs=10, verbose=1)
 ```  
 ### model_2  
-Train data - ```loss: 0.0079 - accuracy: 1.0000```  
+Train data - ```loss: 5.9177e-04 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```0.9900990099009901```  
 Layers:  
 ``` python
