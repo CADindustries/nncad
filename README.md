@@ -30,3 +30,8 @@ Weight - ```28 mb```
 Train data - ```loss: 0.0047 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```18 mb```
+
+#### model_6  
+Train data - ```loss: 0.0211 - accuracy: 0.9985```  
+Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
+Weight - ```18 mb```
