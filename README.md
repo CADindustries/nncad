@@ -9,37 +9,17 @@ Models: [Google drive](https://drive.google.com/drive/folders/1RtRkPHqnLdS3mPfIj
 ### model_1  
 Train data - ```loss: 0.0079 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
-Weight - ```11 mb```
+Weight - ```11 mb```  
+
 ### model_2  
 Train data - ```loss: 5.9177e-04 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```0.9900990099009901```  
+Weight - ```225 mb```
 
 ### model_3  
 Train data - ```loss: 0.0015 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
-Layers:  
-``` python
-model = keras.Sequential([
-    keras.layers.Input((image_h, image_w, 1)),
-    keras.layers.Flatten(),
-    keras.layers.Dense(16),
-    keras.layers.Dense(3, activation='sigmoid'),
-])
-```  
-Compiling:  
-``` python
-model.compile(
-    optimizer=keras.optimizers.Adam(),
-    loss=[
-          keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-    ],
-    metrics='accuracy'
-)
-```  
-Fitting:  
-``` python
-model.fit(ds_train, epochs=10, verbose=1)
-```  
+
 ### model_4  
 Train data - ```loss: 0.0022 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
