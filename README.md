@@ -64,3 +64,9 @@ Train data - ```0.0000e+00 - accuracy: 1.0000```
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```4 mb```  
 Real time work - ```~97%```  
+
+#### model_3_cut  
+Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
+Weight - ```7 mb```  
+Real time work - ```~99%```  
