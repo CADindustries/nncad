@@ -57,16 +57,22 @@ Models: [Google drive](https://drive.google.com/drive/folders/1RtRkPHqnLdS3mPfIj
 Train data - ```0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```1 mb```  
-Real time work - ```~93%```  
+Real time work - ```~82%```  
 
 #### model_2_cut  
 Train data - ```0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```4 mb```  
-Real time work - ```~97%```  
+Real time work - ```~85%```  
 
 #### model_3_cut  
 Train data - ```0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```7 mb```  
-Real time work - ```~99%```  
+Real time work - ```~86%```  
+
+#### model_4_cut  
+Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
+Weight - ```14 mb```  
+Real time work - ```~89%```  
