@@ -54,36 +54,36 @@ Validation data: [Google drive](https://drive.google.com/drive/folders/1ASyNqf_R
 Models: [Google drive](https://drive.google.com/drive/folders/1RtRkPHqnLdS3mPfIjyr7MnOcwZGIaBIg?usp=sharing)
 
 #### model_1_cut  
-Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Train data - ```loss: 0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```1 mb```  
 Real time accuracy - ```~82%```  
 
 #### model_2_cut  
-Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Train data - ```loss: 0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```4 mb```  
 Real time accuracy - ```~85%```  
 
 #### model_3_cut  
-Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Train data - ```loss: 0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```7 mb```  
 Real time accuracy - ```~86%```  
 
 #### model_4_cut  
-Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Train data - ```loss: 0.0000e+00 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```14 mb```  
 Real time accuracy - ```~89%```  
 
 ## Keras, real cut traffic signs  
 Train data: [Google drive](https://drive.google.com/drive/folders/12xx6VoR_AA5yHHQANVNxE6SX6QAKS5zU?usp=sharing)  
-Validation data: ```None``` 
+Validation data: ```None```  
 Models: [Google drive](https://drive.google.com/drive/folders/1RtRkPHqnLdS3mPfIjyr7MnOcwZGIaBIg?usp=sharing)
 
 #### model_1_real   
-Train data - ```0.0000e+00 - accuracy: 1.0000```  
-Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
+Train data - ```loss: 0.0020 - accuracy: 0.9996```  
+Validation data using *sklearn.metrics.accuracy_score* - ```None```  
 Weight - ```30 mb```  
 Real time accuracy - ```~87%```  
