@@ -76,3 +76,14 @@ Train data - ```0.0000e+00 - accuracy: 1.0000```
 Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
 Weight - ```14 mb```  
 Real time accuracy - ```~89%```  
+
+## Keras, real cut traffic signs  
+Train data: [Google drive](https://drive.google.com/drive/folders/12xx6VoR_AA5yHHQANVNxE6SX6QAKS5zU?usp=sharing)  
+Validation data: ```None``` 
+Models: [Google drive](https://drive.google.com/drive/folders/1RtRkPHqnLdS3mPfIjyr7MnOcwZGIaBIg?usp=sharing)
+
+#### model_1_real   
+Train data - ```0.0000e+00 - accuracy: 1.0000```  
+Validation data using *sklearn.metrics.accuracy_score* - ```1.0```  
+Weight - ```30 mb```  
+Real time accuracy - ```~87%```  
