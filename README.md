@@ -92,4 +92,10 @@ Real time accuracy - ```~87%```
 Train data - ```loss: 0.0020 - accuracy: 1.0000```  
 Validation data using *sklearn.metrics.accuracy_score* - ```None```  
 Weight - ```4 mb```  
-Real time accuracy - ```~85%```  
+Real time accuracy - ```~88%```  
+
+#### model_2d1_real   
+Train data - ```loss: 0.0012 - accuracy: 1.0000```  
+Validation data using *sklearn.metrics.accuracy_score* - ```None```  
+Weight - ```950 kb```  
+Real time accuracy - ```~87%```  
