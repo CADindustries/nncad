@@ -5,6 +5,11 @@
 </p>
 <h1 align="center">nncad</h1>
 
+<h2>About:</h2>  
+  
+nncad is a project in which I create neural networks for WorldSkills competitions.  
+  
+
 ## Keras, drawn traffic signs  
 Train data: [Google drive](https://drive.google.com/drive/folders/1g7sy6le5bapZ45Z3536Fn7drX0kr9PiQ?usp=sharing)  
 Validation data: [Google drive](https://drive.google.com/drive/folders/1RDAGq0F0SdDNE-b_s9e5fOSlf92nFLzU?usp=sharing)  
