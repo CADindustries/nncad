@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://robocadsim.readthedocs.io/en/latest/index.html">
-    <img src="https://github.com/CADindustries/nncad/blob/main/nncad.png" alt="nncad logo" width="500" height="380">
+    <img src="https://github.com/CADindustries/nncad/blob/main/nncad.png" alt="nncad logo" width="300" height="230">
   </a>
 </p>
 <h1 align="center">nncad</h1>
